@@ -23,3 +23,9 @@
 	<li>Authentication using NextAuth.js and Middleware.</li>
 	<li>Metadata and Open Graph.</li>
 </ul>
+
+<h3>Log in information</h3>
+<ul>
+	<li>Email: user@nextmail.com</li>
+	<li>Password: 123456</li>
+</ul>
